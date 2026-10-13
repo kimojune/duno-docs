@@ -1,0 +1,5 @@
+private/
+.obsidian/
+.DS_Store
+Thumbs.db
+*.tmp
